@@ -1307,7 +1307,7 @@ h2 {
 	font-size: 2rem;
 	color: white;
 	margin-bottom: 10px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 #services .ml-item p {
 	color: white;
